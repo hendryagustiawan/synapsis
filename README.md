@@ -5,26 +5,34 @@
 
 ## Preview
 
-#### Login
-
-   <img width="948" alt="image" src="https://github.com/hendryagustiawan/image/blob/main/screencapture-localhost-5173-login-2024-01-27-19_45_43.png?raw=true">
-
 #### Home
 
-   <img width="948" alt="image" src="https://github.com/hendryagustiawan/image/blob/main/screencapture-localhost-5173-2024-01-27-23_16_42.png?raw=true">
+   <img width="948" alt="image" src="https://github.com/hendryagustiawan/image/blob/main/screencapture-localhost-5173-2024-02-04-20_17_25.png?raw=true">
 
 #### Detail
 
-   <img width="948" alt="image" src="https://github.com/hendryagustiawan/image/blob/main/screencapture-localhost-5173-detail-1022796-2024-01-27-19_44_56.png?raw=true">
+   <img width="948" alt="image" src="https://github.com/hendryagustiawan/image/blob/main/screencapture-localhost-5173-detail-99413-2024-02-04-20_17_37.png?raw=true">
 
-#### Favorite
+#### User
 
- <img width="948" alt="image" src="https://github.com/hendryagustiawan/image/blob/main/screencapture-localhost-5173-favorite-2024-01-28-03_06_19.png?raw=true">
+   <img width="948" alt="image" src="https://github.com/hendryagustiawan/image/blob/main/screencapture-localhost-5173-user-2024-02-04-20_17_46.png?raw=true">
 
-#### Watch List
+#### Add User
 
- <img width="948" alt="image" src="https://github.com/hendryagustiawan/image/blob/main/watchlist.PNG?raw=true">
+ <img width="948" alt="image" src="https://github.com/hendryagustiawan/image/blob/main/add%20user.PNG?raw=true">
+
+#### Delete User
+
+ <img width="948" alt="image" src="https://github.com/hendryagustiawan/image/blob/main/screencapture-localhost-5173-user-2024-02-04-20_18_04.png?raw=true">
+
+#### Edit User
+
+ <img width="948" alt="image" src="https://github.com/hendryagustiawan/image/blob/main/screencapture-localhost-5173-edit-6129404-2024-02-04-20_24_06.png?raw=true">
+
+#### Search User
+
+ <img width="948" alt="image" src="https://github.com/hendryagustiawan/image/blob/main/screencapture-localhost-5173-user-2024-02-04-20_18_41.png?raw=true">
 
 #### Data Not Found
 
-<img width="948" alt="image" src="https://github.com/hendryagustiawan/image/blob/main/screencapture-localhost-5173-favorite-2024-01-27-19_43_34.png?raw=true">
+<img width="948" alt="image" src="https://github.com/hendryagustiawan/image/blob/main/screencapture-localhost-5173-user-2024-02-04-20_18_28.png?raw=true">

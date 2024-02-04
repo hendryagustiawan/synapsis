@@ -13,17 +13,18 @@ function App() {
   return (
     <>
       <BrowserRouter>
-        <Navbar />
-        <Routes>
-          <Suspense fallback={<div>Loading...</div>}>
+        <Suspense fallback={<div>Loading...</div>}>
+          <Navbar />
+          <Routes>
             <Route path="*" element={<NotFound />} />
             <Route path="/" element={<Home />} />
             <Route path="/user" element={<User />} />
             <Route path="/edit/:id" element={<EditUser />} />
             <Route path="/detail/:id" element={<Detail />} />
-          </Suspense>
-        </Routes>
-        <ToastComponent />
+          </Routes>
+
+          <ToastComponent />
+        </Suspense>
       </BrowserRouter>
     </>
   );
