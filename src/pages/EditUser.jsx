@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useDispatch } from "react-redux";
 import { useLocation, useNavigate } from "react-router-dom";
-import { editUser, getUserList } from "../store/Actions/actionUser";
+import { editUser } from "../store/Actions/actionUser";
 
 export default function EditUser() {
   const { state } = useLocation();
@@ -28,7 +28,6 @@ export default function EditUser() {
       )
     ).then(() => {
       navigate("/user");
-      dispatch(getUserList());
     });
   };
 
