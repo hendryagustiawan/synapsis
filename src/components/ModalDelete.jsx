@@ -3,6 +3,8 @@ import { useDispatch } from "react-redux";
 import { deleteUser, getUserList } from "../store/Actions/actionUser";
 
 export default function ModalDelete({ id }) {
+  const [searchName, setSearchName] = useState("");
+  const [currentPage, setCurrentPage] = useState(1);
   localStorage.setItem("userId", id);
 
   const dispatch = useDispatch();
@@ -11,7 +13,7 @@ export default function ModalDelete({ id }) {
     const id = localStorage.getItem("userId");
 
     dispatch(deleteUser(id)).then(() => {
-      dispatch(getUserList());
+      dispatch(getUserList(searchName, currentPage));
     });
   };
 

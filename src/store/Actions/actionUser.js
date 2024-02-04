@@ -35,7 +35,7 @@ export const addUser = (input) => async (dispatch, getState) => {
 
     successMsg();
   } catch (error) {
-    errorMsg(error);
+    errorMsg(error.response.data[0].message);
   }
 };
 

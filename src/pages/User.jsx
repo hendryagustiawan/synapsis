@@ -38,7 +38,7 @@ export default function User() {
         status: inputStatus,
       })
     ).then(() => {
-      dispatch(getUserList());
+      dispatch(getUserList(searchName, currentPage));
     });
   };
 
